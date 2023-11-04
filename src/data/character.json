@@ -1,0 +1,24 @@
+{
+  "perso": {
+    "name": "Naruto",
+    "image": "/src/img/narutosprite.gif",
+    "hp": 100,
+    "moves": [
+      { "name": "Kunai", "power": 10 },
+      { "name": "Rasengan", "power": 15 },
+      { "name": "Sexy Jutsu", "power": 20 },
+      { "name": "Orbe Bijuu", "power": 25 }
+    ]
+  },
+  "enemy": {
+    "name": "Sasuke",
+    "image": "/src/img/sasukeSprite.gif",
+    "hp": 100,
+    "moves": [
+      { "name": "Kunai", "power": 10 },
+      { "name": "Chidori", "power": 15 },
+      { "name": "Kirin", "power": 20 },
+      { "name": "Amaterasu", "power": 25 }
+    ]
+  }
+}
